@@ -16,6 +16,15 @@ a:hover {
   text-decoration: none;
 }
 
+.credits a {
+  color: white;
+}
+
+.credits a:hover {
+  color: #8ec4dd;
+  text-decoration: none;
+}
+
 h1,
 h2,
 h3,
